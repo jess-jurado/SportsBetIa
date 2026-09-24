@@ -1,0 +1,44 @@
+{
+  "sports": [
+    "soccer_epl",
+    "basketball_nba",
+    "soccer_spain_la_liga",
+    "soccer_spain_segunda",
+    "soccer_italy_serie_a",
+    "soccer_germany_bundesliga",
+    "soccer_uefa_champs_league",
+    "tennis_atp"
+  ],
+  "regions": "eu,us",
+  "markets": "h2h",
+  "countries": {
+    "España": {
+      "flag": "🇪🇸",
+      "bookmakers": ["bet365", "william hill", "bwin", "codere", "888sport", "luckia", "betway", "pinnacle", "marathonbet", "pastón"]
+    },
+    "Francia": {
+      "flag": "🇫🇷",
+      "bookmakers": ["betclic", "unibet", "winamax", "bwin", "betway", "pmu"]
+    },
+    "Italia": {
+      "flag": "🇮🇹",
+      "bookmakers": ["snai", "eurobet", "bet365", "bwin", "unibet", "sisal"]
+    },
+    "Alemania": {
+      "flag": "🇩🇪",
+      "bookmakers": ["tipico", "bet365", "bwin", "betway", "unibet"]
+    },
+    "Portugal": {
+      "flag": "🇵🇹",
+      "bookmakers": ["betano", "placard", "bwin", "betway", "nossa aposta", "casino portugal"]
+    },
+    "Bélgica": {
+      "flag": "🇧🇪",
+      "bookmakers": ["unibet", "bwin", "betway", "napoleon", "betfirst"]
+    },
+    "Holanda": {
+      "flag": "🇳🇱",
+      "bookmakers": ["unibet", "bet365", "betcity", "toto", "jacks"]
+    }
+  }
+}

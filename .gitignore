@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+bet_data.db
+playwright_cookies.json
+state.json
+settings.json
+.vscode/
+.idea/
+.streamlit/
+*.db
+*.log
