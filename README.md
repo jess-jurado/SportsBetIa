@@ -4,6 +4,7 @@
 ![Framework](https://img.shields.io/badge/dashboard-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 ![Database](https://img.shields.io/badge/database-SQLite-003B57?style=for-the-badge&logo=sqlite)
 ![ML Engine](https://img.shields.io/badge/ML-XGBoost%20%7C%20Scikit--Learn-GREEN?style=for-the-badge&logo=scikit-learn)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
 
 **SportsBetIA** es una plataforma agnóstica de analítica deportiva e inteligencia predictiva impulsada por aprendizaje automático (*Machine Learning*). Su objetivo principal es resolver la dispersión y falta de fiabilidad en la recopilación de datos de fútbol, unificando múltiples proveedores de API oficiales en un pipeline de datos homogéneo y ofreciendo visualizaciones interactivas de mercado, rendimiento de equipos y ventajas de valor (*Value Edge %*).
@@ -145,6 +146,4 @@ FOOTBALLDATA_TOKEN=tu_token_footballdata_aqui
 
 ## 📜 Licencia
 
-Actualmente este proyecto no tiene una licencia explícita asignada. Sugerimos la **Licencia MIT** (permite libre uso, modificación y distribución manteniéndose *open-source*).
-
-*(Confirma si deseas aplicar la licencia MIT y se incluirá formalmente el archivo `LICENSE`).*
+Este proyecto se distribuye bajo los términos de la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
